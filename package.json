@@ -1,6 +1,6 @@
 {
-  "name": "vueify",
-  "version": "9.4.1",
+  "name": "vueify-bolt",
+  "version": "1.0.0",
   "description": "Vue component transform for Browserify",
   "main": "index.js",
   "repository": {
@@ -25,15 +25,16 @@
     "convert-source-map": "^1.2.0",
     "cssnano": "^3.3.2",
     "hash-sum": "^1.0.2",
+    "json5": "^0.5.1",
     "lru-cache": "^4.0.0",
     "object-assign": "^4.0.1",
     "postcss": "^5.0.10",
     "postcss-selector-parser": "^2.0.0",
     "source-map": "^0.5.6",
     "through": "^2.3.6",
-    "json5": "^0.5.1",
     "vue-hot-reload-api": "^2.0.1",
-    "vue-template-compiler": "^2.0.0-alpha.8",
+    "vue-loader": "^13.5.0",
+    "vue-template-compiler": "^2.5.10",
     "vue-template-es2015-compiler": "^1.2.2"
   },
   "devDependencies": {
