@@ -58,6 +58,6 @@
     "stylus": "^0.52.4"
   },
   "peerDependencies": {
-    "vue-template-compiler": "^2.5.10"
+    "vue-template-compiler": "~2"
   }
 }
