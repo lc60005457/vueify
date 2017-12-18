@@ -2,7 +2,8 @@
 
 > forked from vuejs/vueify
 
-Add [Asset URL Handling](https://vue-loader.vuejs.org/zh-cn/configurations/asset-url.html)
+- Add [Asset URL Handling](https://vue-loader.vuejs.org/zh-cn/configurations/asset-url.html)
+- move 'vue-template-compiler' to 'peerDependencies' from 'dependencies'
 
 # vueify
 
