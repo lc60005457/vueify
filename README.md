@@ -1,11 +1,11 @@
-# vueify-bolt [![Build Status](https://circleci.com/gh/vuejs/vueify-bolt.svg?style=shield)](https://circleci.com/gh/vuejs/vueify) [![npm version](https://badge.fury.io/js/vueify-bolt.svg)](http://badge.fury.io/js/vueify)
+# vueify-bolt [![npm version](https://badge.fury.io/js/vueify-bolt.svg)](http://badge.fury.io/js/vueify)
 
 > forked from vuejs/vueify
 
 - Add [Asset URL Handling](https://vue-loader.vuejs.org/zh-cn/configurations/asset-url.html)
 - move 'vue-template-compiler' to 'peerDependencies' from 'dependencies'
 
-# vueify
+# vueify [![Build Status](https://circleci.com/gh/vuejs/vueify.svg?style=shield)](https://circleci.com/gh/vuejs/vueify)
 
 > [Browserify](http://browserify.org/) transform for [Vue.js](http://vuejs.org/) components, with scoped CSS and component hot-reloading.
 
